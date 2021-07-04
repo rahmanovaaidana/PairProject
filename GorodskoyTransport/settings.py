@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'taxi.apps.TaxiConfig',
     'trolleibus.apps.TrolleibusConfig',
     'home.apps.HomeConfig',
+    'avtobus.apps.AvtobusConfig',
+    'marshrutki.apps.MarshrutkiConfig',
 ]
 
 MIDDLEWARE = [
