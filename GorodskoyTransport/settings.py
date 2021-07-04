@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'taxi.apps.TaxiConfig',
+    'trolleibus.apps.TrolleibusConfig',
+    'home.apps.HomeConfig',
 ]
 
 MIDDLEWARE = [
